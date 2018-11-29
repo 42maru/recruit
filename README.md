@@ -18,6 +18,7 @@
 - LGU+ 키즈워치 등의 QA서비스가 포티투마루의 QA 엔진으로 동작하고 있습니다.
 - KT 기가지니 QA서비스가 포티투마루의 QA 엔진으로 동작하고 있습니다.
 - 국내 AI스타트업 최초로 세계 2대 스타트업 엑셀러레이터인 테크스타즈 런던 프로그램 선발 (https://platum.kr/archives/103578)
+- 기계 독해 경진대회인 ‘SQuAD(The Stanford Question Answering Dataset) 2.0’에서 구글과 공동 1위  (http://www.startup4.co.kr/news/articleView.html?idxno=11174)
 
 ## 포티투마루의 목표는?
 QA(Question Answering)와 자연어처리 분야에서 독보적인 존재가 되려고 합니다. 같은 꿈을 꾸고 있는 분들을 모시고 싶습니다!
