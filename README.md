@@ -48,14 +48,8 @@ The 42Maru’s development team consists of a global team, and we are always wel
 
 
 ## 자격요건
-![image](https://user-images.githubusercontent.com/25052940/73818446-c0e3b500-4830-11ea-94be-3dc554c461fd.png)
+![image](https://user-images.githubusercontent.com/25053032/73820488-42d5dd00-4835-11ea-85cd-ff91e738ef32.png)
 
-## 우대사항
-* AWS 환경에서 시스템 운영 경험
-* 대용량 분산환경에서의 시스템 개발/운영 경험
-* Git을 이용한 협업 경험
-* CI/CD 경험 혹은 관심있으신 분
-* 딥러닝 개발 경험이 있으신 분
 
 ## 근무조건
 * 근무지 : 낙성대역 4번출구 1분거리
