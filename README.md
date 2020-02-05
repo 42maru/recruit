@@ -31,6 +31,9 @@ QA(Question Answering)와 자연어처리 분야에서 독보적인 존재가 �
 - 모르는 것을 빠르게 학습하시는 분
 - 포티투마루와 함께 성장하고자 하는 열정이 있으신 분
 
+## 모집 분야 및 자격 요건
+![image](https://user-images.githubusercontent.com/25052940/73818446-c0e3b500-4830-11ea-94be-3dc554c461fd.png)
+
 
 ## 주요업무
 - Deep Learning기반 QA 시스템 개발
@@ -80,6 +83,3 @@ QA(Question Answering)와 자연어처리 분야에서 독보적인 존재가 �
 * 1차 서류전형
 * 2차 개발면접 (1차 서류전형 통과 시)
 * 3차 임원면접 (2차 개발면접 통과 시)
-
-
-![image](https://user-images.githubusercontent.com/25052940/73818446-c0e3b500-4830-11ea-94be-3dc554c461fd.png)
