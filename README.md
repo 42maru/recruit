@@ -30,6 +30,12 @@ QA(Question Answering)와 자연어처리 분야에서 독보적인 존재가 �
 
 포티투마루 개발팀은 글로벌 멤버로 구성되어 있으며, 많은 외국인 개발자들의 도전을 환영합니다.
 
+The 42Maru’s development team is developing deep learning-based Question & Answering, Search, and conversation engines. Anyone who loves and enjoys development and believes that our products can change the world can be supported.
+
+**We look forward to your challenges to grow together and conquer the world!**
+
+The 42Maru’s development team consists of a global team, and we are always welcome to the challenge of foreign developers.
+
 
 ## 모집 분야 및 자격 요건
 
