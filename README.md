@@ -48,7 +48,8 @@ The 42Maru’s development team consists of a global team, and we are always wel
 
 
 ## 자격요건
-![image](https://user-images.githubusercontent.com/25053032/73820488-42d5dd00-4835-11ea-85cd-ff91e738ef32.png)
+![image](https://user-images.githubusercontent.com/25053032/73821368-2b97ef00-4837-11ea-927b-0591db18141d.png)
+
 
 
 ## 근무조건
